@@ -32,7 +32,7 @@ The goal of this is to motivate people to get into hacking, electronics and Ardu
 
 ## About
 
-![network scanner](https://raw.githubusercontent.com/spacehuhn/esp8266_beaconSpam/master/img/networkscanner.jpg)
+![network scanner](https://raw.githubusercontent.com/JvPeek/esp8266_beaconSpam_aluhut_edition/master/img/networkscanner.jpg)
 
 This project emerged from the [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) that also has this type of attack implemented.  
 But while the Deauther is very complex and might seem intimidating to an Arduino beginner, this project is simple, hackable and easy get running!  
