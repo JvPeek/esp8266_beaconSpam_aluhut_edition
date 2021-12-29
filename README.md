@@ -3,7 +3,7 @@
 It can be used to freak out your neighbors or antivaxxers in public. Yes, i know, i'm going to hell for this.
 
 
-<p align="center"><img alt="project-logo" width="300" src="https://raw.githubusercontent.com/spacehuhn/esp8266_beaconSpam/master/img/beacon_spam.png"></p>
+<p align="center"><img alt="project-logo" width="300" src="https://raw.githubusercontent.com/JvPeek/esp8266_beaconSpam_aluhut_edition/master/img/beacon_spam.png"></p>
  
 <p align="center">
 🐦 <a href="https://twitter.com/spacehuhn">Twitter</a>
